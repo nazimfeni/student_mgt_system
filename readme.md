@@ -1,3 +1,4 @@
+# Student Management System
 ## Backend: Laravel12
 🧩 Part 1: Laravel Backend (API)
 ✅ 1. Create Laravel Project
